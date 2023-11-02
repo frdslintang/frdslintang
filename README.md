@@ -1,6 +1,5 @@
 - Hi, I’m @frdslintang
 - I’m interested in web development
-- I’m currently learning CSS and Javascript
 - I’m looking to collaborate on web programming
 
 <!---
