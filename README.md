@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IConnect Application**
 
-- 🌱 I’m currently learning **Mobile Dev, UI/UX**
+- 🌱 I’m currently learning **Mobile Dev, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://lintangfirdaus2853.wixsite.com/lintang-firdaus](https://lintangfirdaus2853.wixsite.com/lintang-firdaus)
 
