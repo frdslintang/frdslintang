@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lintang Firdaus</h1>
-<h3 align="center">Loves Mobile Development & UI/UX Design</h3>
+<h3 align="center">Loves Mobile Development & Web Development</h3>
 
 - 🔭 I’m currently working on **IConnect Application**
 
