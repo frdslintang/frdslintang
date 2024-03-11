@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Mobile Dev, Web Development**
 
-- 👨‍💻 All of my projects are available at [https://lintangfirdaus2853.wixsite.com/lintang-firdaus](https://lintangfirdaus2853.wixsite.com/lintang-firdaus)
-
 - 💬 Ask me about **Tech**
 
 - 📫 How to reach me **lintangfirdaus2853@gmail.com**
