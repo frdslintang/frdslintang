@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lintang Firdaus</h1>
+<h1 align="center">Hi Folks👋, I'm Lintang Firdaus</h1>
 <h3 align="center">Loves Mobile Development & Web Development</h3>
 
 - 🔭 I’m currently working on **IConnect Application**
